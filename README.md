@@ -46,9 +46,11 @@ Dense output layer with Softmax activation
 ```git clone https://github.com/<your-username>/Plant-Disease-Detection.git
 cd Plant-Disease-Detection```
 
+
 2️⃣ Install dependencies:
 
 ```pip install -r requirements.txt```
+
 
 3️⃣ Download the trained model:
 
