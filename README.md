@@ -40,11 +40,14 @@ Dropout (0.2)
 Dense output layer with Softmax activation
 
 🚀 How to Run Locally
+
 1️⃣ Clone the repository:
+
 git clone https://github.com/<your-username>/Plant-Disease-Detection.git
 cd Plant-Disease-Detection
 
 2️⃣ Install dependencies:
+
 pip install -r requirements.txt
 
 3️⃣ Download the trained model:
