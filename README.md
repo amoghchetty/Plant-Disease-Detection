@@ -43,12 +43,12 @@ Dense output layer with Softmax activation
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/<your-username>/Plant-Disease-Detection.git
-cd Plant-Disease-Detection
+```git clone https://github.com/<your-username>/Plant-Disease-Detection.git
+cd Plant-Disease-Detection```
 
 2️⃣ Install dependencies:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 3️⃣ Download the trained model:
 
@@ -71,4 +71,4 @@ Plant-Disease-Detection/
  ├── Plant_Disease_Detection.ipynb
 
 4️⃣ Run the Streamlit app:
-streamlit run plant_disease_detection.py
+```streamlit run plant_disease_detection.py```
